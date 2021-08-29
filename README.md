@@ -31,7 +31,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 
 ## Screenshot
-
+![Optional Text](./assets/img/screenshot.png)
 
 ## Live Url
 https://camball96.github.io/hw-week-2-professional-portfolio/
